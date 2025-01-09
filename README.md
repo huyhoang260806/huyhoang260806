@@ -3,7 +3,7 @@
 - **👀 I’m interested in**: Web development, especially working with React, TypeScript, and charting libraries like Recharts.  
 - **🌱 I’m currently learning**: More about Material-UI integration with React Konva and enhancing my skills in data visualization.  
 - **💞️ I’m looking to collaborate on**: Projects that involve telemetry data processing, web applications, and innovative UI/UX designs.  
-- **📫 How to reach me**: You can reach me via email at [huyhoang@example.com](mailto:huyhoang@example.com) (replace with your actual email).  
+- **📫 How to reach me**: You can reach me via email at [huyhoang@example.com](mailto:24133023@student.hcmute.edu.vn).  
 - **😄 Pronouns**: He/Him  
 - **⚡ Fun fact**: I’m passionate about creating meal plans and exploring the flavors of Vietnamese cuisine!
 
